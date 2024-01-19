@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AriesMtz1
-- 👀 I’m interested in Embedded Software Engineering
-- 🌱 I’m currently learning Electrical Engineering
+- 👀 I’m interested in Embedded Engineering
+- 🌱 I’m currently working as an Electrical Engineer
 - 📫 How to reach me ariesmtz@gmail.com
 
 <!---
